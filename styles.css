@@ -1,0 +1,20 @@
+a {
+    font-size: 20px;
+    color: black;
+    background-color: aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a:hover {
+    color: lightblue;
+}
+
+body {
+    height: 100%;
+    background: cyan;
+}
+
+h1 {
+    font-weight: 900;
+    font-family: Tahoma, sans-serif;
+}
